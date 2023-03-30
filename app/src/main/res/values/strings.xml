@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BCB</string>
+    <string name="berat_tanah_basah">Berat Tanah Basah</string>
+    <string name="berat_tanah_kering">Berat Tanah Kering</string>
+    <string name="kelembaban_tanah">Untuk tanaman cabai, kelembaban tanah yang ideal adalah antara
+        50-60% dari kapasitas lapang (KLL). KLL adalah jumlah air maksimum yang bisa disimpan oleh
+        tanah dan masih memungkinkan pertumbuhan tanaman secara optimal. KLL dapat dihitung dengan
+        mengambil sampel tanah dari kedalaman 10-20 cm dan menentukan beratnya. Kemudian, tanah
+        tersebut disiram air dan dibiarkan mengalir dengan bebas selama 24 jam. Setelah itu,
+        tanah diambil kembali dan diukur beratnya. Selisih antara berat tanah basah dan kering
+        tersebut adalah kapasitas lapang.
+    </string>
+    <string name="hitung">Hitung</string>
+    <string name="bmi_x">BMI: %1$.2f</string>
+    <string name="kurus">Kurus</string>
+    <string name="ideal">Ideal</string>
+    <string name="gemuk">Gemuk</string>
+    <string name="kategori_x">Kategori: %1$s</string>
+</resources>
